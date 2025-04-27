@@ -3,7 +3,7 @@ Trabalho de grupo para a disciplina de Técnicas de Desenvolvimento de Videojogo
 
 Realizado por / Daniel Guerra - 31478
               / Afonso Silva - 31485
-              / Simão Baltar - 
+              / Simão Baltar - 31474
 
 Relatório do Projeto de Jogo - TDD (MonoGame)
 Introdução
