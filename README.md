@@ -23,28 +23,18 @@ O jogo é um projeto simples baseado no ciclo tradicional de desenvolvimento de 
 Apesar da simplicidade gráfica e de jogabilidade, o projeto serve como uma excelente base para aprendizagem de conceitos fundamentais de desenvolvimento de jogos 2D.
 Este projeto foi pensado para reforçar os conhecimentos práticos na criação de um motor de jogo básico.
 
-Explicação Técnica do Código
+Explicação Técnica do Código -
+
 O projeto está organizado da seguinte forma:
 
-Program.cs
-Ponto de entrada da aplicação. É aqui que a classe Game1 é instanciada e o jogo começa a correr.
-
-Game1.cs
-Contém toda a lógica principal do jogo:
-
-Initialize: Prepara o ambiente inicial (ex.: definição de variáveis iniciais).
-
-LoadContent: Carrega todos os recursos necessários, como imagens e sons.
-
-Update: Atualiza o estado do jogo, processando entradas do utilizador e lógica de movimento/colisão.
-
-Draw: Desenha os elementos visuais na janela de jogo.
-
-Content/
-Pasta onde estão armazenados os conteúdos (assets) que o jogo utiliza.
-
-TDD.csproj
-Ficheiro de configuração do projeto para o Visual Studio.
+- Program.cs: Ponto de entrada da aplicação. É aqui que a classe Game1 é instanciada e o jogo começa a correr.
+- Game1.cs: Contém toda a lógica principal do jogo:
+- Initialize: Prepara o ambiente inicial (ex.: definição de variáveis iniciais).
+- LoadContent: Carrega todos os recursos necessários, como imagens e sons.
+- Update: Atualiza o estado do jogo, processando entradas do utilizador e lógica de movimento/colisão.
+- Draw: Desenha os elementos visuais na janela de jogo.
+- Content: Pasta onde estão armazenados os conteúdos (assets) que o jogo utiliza.
+- TDD.csproj: Ficheiro de configuração do projeto para o Visual Studio.
 
 Estrutura do Ciclo de Vida do Jogo
 O projeto implementa o Game Loop, um padrão central no desenvolvimento de videojogos:
