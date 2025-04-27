@@ -1,5 +1,5 @@
 # Projeto-1
-Trabalho de grupo para a disciplina de Técnicas de Desenvolvimento de Videojogos
+Trabalho de grupo para a disciplina de Técnicas de Desenvolvimento de Videojogos.
 
 Realizado por / Daniel Guerra - 31478
               / Afonso Silva - 31485
@@ -54,8 +54,6 @@ Tecnologias Utilizadas:
 - .NET SDK;
 - Ambiente de desenvolvimento como o Visual Studio.
 
-Conclusão -
-
-O projeto TDD desenvolvido em MonoGame é um exemplo claro e simples de como estruturar um jogo básico em C#.
+Conclusão - O projeto TDD desenvolvido em MonoGame é um exemplo claro e simples de como estruturar um jogo básico em C#.
 A sua organização permite compreender a lógica de desenvolvimento de videojogos desde o carregamento de conteúdos até ao desenho final.
 É uma excelente base para futuras expansões e para o aprofundamento dos conhecimentos na área de programação de jogos.
