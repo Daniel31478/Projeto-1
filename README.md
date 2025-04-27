@@ -5,24 +5,20 @@ Realizado por / Daniel Guerra - 31478
               / Afonso Silva - 31485
               / Simão Baltar - 31474
 
-Relatório do Projeto de Jogo - TDD (MonoGame)
-
-Introdução
+Introdução - 
 
 Este documento apresenta a análise de um projeto de jogo desenvolvido utilizando o framework MonoGame em C#.
 O projeto foi obtido a partir de um repositório no GitHub e insere-se no âmbito da disciplina de Programação e Técnicas de Desenvolvimento de Videojogos.
 Serão abordados a descrição do funcionamento do jogo e uma explicação técnica da sua implementação.
 
-Descrição do Jogo
+Descrição do Jogo- 
+
 O jogo é um projeto simples baseado no ciclo tradicional de desenvolvimento de videojogos:
 
-Inicialização,
-
-Carregamento de conteúdos,
-
-Atualização da lógica do jogo,
-
-Desenho dos elementos no ecrã.
+- Inicialização,
+- Carregamento de conteúdos,
+- Atualização da lógica do jogo,
+- Desenho dos elementos no ecrã.
 
 Apesar da simplicidade gráfica e de jogabilidade, o projeto serve como uma excelente base para aprendizagem de conceitos fundamentais de desenvolvimento de jogos 2D.
 Este projeto foi pensado para reforçar os conhecimentos práticos na criação de um motor de jogo básico.
