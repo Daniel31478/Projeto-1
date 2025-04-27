@@ -36,27 +36,23 @@ O projeto está organizado da seguinte forma:
 - Content: Pasta onde estão armazenados os conteúdos (assets) que o jogo utiliza.
 - TDD.csproj: Ficheiro de configuração do projeto para o Visual Studio.
 
-Estrutura do Ciclo de Vida do Jogo
+Estrutura do Ciclo de Vida do Jogo -
+
 O projeto implementa o Game Loop, um padrão central no desenvolvimento de videojogos:
 
-Inicializar o ambiente do jogo.
-
-Carregar conteúdos gráficos e sonoros.
-
-Atualizar a lógica interna de forma contínua (input, colisões, movimento).
-
-Desenhar os objetos no ecrã de acordo com o estado atual.
+- Inicializar o ambiente do jogo.
+- Carregar conteúdos gráficos e sonoros.
+- Atualizar a lógica interna de forma contínua (input, colisões, movimento).
+- Desenhar os objetos no ecrã de acordo com o estado atual.
 
 Este ciclo repete-se dezenas ou centenas de vezes por segundo.
 
-Tecnologias Utilizadas
-Linguagem C#
+Tecnologias Utilizadas:
 
-Framework MonoGame
-
-.NET SDK
-
-Ambiente de desenvolvimento como o Visual Studio
+- Linguagem C#
+- Framework MonoGame
+- .NET SDK
+- Ambiente de desenvolvimento como o Visual Studio
 
 Conclusão
 O projeto TDD desenvolvido em MonoGame é um exemplo claro e simples de como estruturar um jogo básico em C#.
