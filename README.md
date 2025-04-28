@@ -6,6 +6,7 @@ Realizado por / Daniel Guerra - 31478
               / Simão Baltar - 31464
 
 MonoPingPong
+
 Introdução
 O projeto MonoPingPong é uma reinterpretação moderna do clássico jogo "Pong", desenvolvido utilizando a framework MonoGame e a linguagem C#.
 O jogo foi criado como exercício prático no contexto da unidade curricular Técnicas de Desenvolvimento de Videojogos, focando-se no desenvolvimento de mecânicas básicas de interação, física de colisões e gestão de estados de jogo.
